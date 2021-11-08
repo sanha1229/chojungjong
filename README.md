@@ -61,4 +61,4 @@ cjj.cfs('ㅇㅏㄴㄴㅕㅇㅎㅏㅅㅔㅇㅛ'); // "안녕하세요"
 ```
 
 ## Java
-[java](https://github.com/nancom20/chojungjong/blob/main/src/chojungjongJava/README.md)
+[java](https://github.com/sweetcorn1229/chojungjong/blob/main/src/chojungjongJava/README.md)
